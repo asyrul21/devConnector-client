@@ -23,3 +23,10 @@ export const ACCOUNT_DELETED = "ACCOUNT_DELETED";
 
 //github repos
 export const GET_REPOS = "GET_REPOS";
+
+// posts
+export const GET_POSTS = "GET_POSTS";
+export const POST_ERROR = "POST_ERROR";
+
+// likes
+export const UPDATE_LIKES = "UPDATE_LIKES";
