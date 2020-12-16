@@ -5,7 +5,7 @@
   },
   "proxies": {
     "/api": {
-      "origin": "https://devcon-server-asy.herokuapp.com/api"
+      "origin": "https://devcon-server-asy.herokuapp.com"
     }
   }
 }
